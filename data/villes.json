@@ -1,0 +1,58 @@
+[
+    {
+       "id":1,
+       "name": "Québec",
+       "fraisMTRL": 350.0,
+       "province" : "QC",
+       "TPS" :1.14975   ,
+       "TVQ" :0.05
+    },
+    {
+        "id":2,
+        "name": "Montréal",
+        "fraisMTRL": 140.0 ,
+        "province" : "QC",
+        "TPS" :1.14975   ,
+        "TVQ" :0.05       
+    },
+    {
+        "id":3,
+        "name": "Ottawa",
+        "fraisMTRL": 300.0,
+        "province" : "ON",
+        "TPS" :1.13   ,
+        "TVQ" :0.13           
+    },
+    {
+        "id":4,
+        "name": "Toronto",
+        "fraisMTRL": 400.0,
+        "province" : "ON",
+        "TPS" :1.13   ,
+        "TVQ" :0.13            
+    },
+    {
+        "id":5,
+        "name": "Toronto (StousVille)",
+        "fraisMTRL": 650.0,
+        "province" : "ON",
+        "TPS" :1.13   ,
+        "TVQ" :0.13            
+    },
+    {
+        "id":6,
+        "name": "London",
+        "fraisMTRL": 500.0,
+        "province" : "ON",
+        "TPS" :1.13   ,
+        "TVQ" :0.13                   
+    },
+    {
+        "id":7,
+        "name": "Hamilton",
+        "fraisMTRL": 500.0,
+        "province" : "ON",
+        "TPS" :1.13   ,
+        "TVQ" :0.13                 
+    }
+]

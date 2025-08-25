@@ -1,0 +1,291 @@
+[
+    {
+       "id":1,
+       "from": 0.0,
+       "to": 99.99,
+       "fraisAchat": 115.0,
+       "fraisAuctionNow":59.0,
+       "fraisSortie":25.0  
+    },
+    {
+        "id":2,
+        "from": 100.0,
+        "to": 199.99,
+        "fraisAchat": 140.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":55.0         
+    },
+    {
+        "id":3,
+        "from": 200.0,
+        "to": 299.99,
+        "fraisAchat": 175.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":55.0        
+    },
+    {
+        "id":4,
+        "from": 300.0,
+        "to": 399.99,
+        "fraisAchat": 205.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0        
+    },
+    {
+        "id":5,
+        "from": 400.0,
+        "to": 499.99,
+        "fraisAchat": 235.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0       
+    },
+    {
+        "id":6,
+        "from": 500.0,
+        "to": 599.99,
+        "fraisAchat": 260.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0        
+    },
+    {
+        "id":7,
+        "from": 600.0,
+        "to": 699.99,
+        "fraisAchat": 300.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0        
+    },
+    {
+        "id":8,
+        "from": 700.0,
+        "to": 799.99,
+        "fraisAchat": 310.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0        
+    },
+    {
+        "id":9,
+        "from": 800.0,
+        "to": 999.99,
+        "fraisAchat": 320.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0        
+    },
+    {
+        "id":10,
+        "from": 1000.0,
+        "to": 1199.99,
+        "fraisAchat": 340.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0      
+    },
+    {
+        "id":11,
+        "from": 1200.0,
+        "to": 1399.99,
+        "fraisAchat": 350.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0        
+    },
+    {
+        "id":12,
+        "from": 1400.0,
+        "to": 1499.99,
+        "fraisAchat": 370.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":65.0       
+    },
+    {
+        "id":13,
+        "from": 1500.0,
+        "to": 1599.99,
+        "fraisAchat": 390.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":75.0        
+    },
+    {
+        "id":14,
+        "from": 1600.0,
+        "to": 1799.99,
+        "fraisAchat": 400.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":75.0        
+    },
+    {
+        "id":15,
+        "from": 1800.0,
+        "to": 1999.99,
+        "fraisAchat": 425.0,
+        "fraisAuctionNow":59.0,
+        "fraisSortie":75.0        
+    },
+    {
+        "id":16,
+        "from": 2000.0,
+        "to": 2499.99,
+        "fraisAchat": 450.0,
+        "fraisAuctionNow":69.0,
+        "fraisSortie":75.0       
+    },
+    {
+        "id":17,
+        "from": 2500.0,
+        "to": 3499.99,
+        "fraisAchat": 490.0,
+        "fraisAuctionNow":69.0,
+        "fraisSortie":75.0       
+    },
+    {
+        "id":18,
+        "from": 3500.0,
+        "to": 4499.99,
+        "fraisAchat": 550.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":75.0      
+    },
+    {
+        "id":19,
+        "from": 4500.0,
+        "to": 4999.99,
+        "fraisAchat": 575.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":75.0      
+    },
+    {
+        "id":20,
+        "from": 5000.0,
+        "to": 5499.99,
+        "fraisAchat": 600.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":75.0      
+    },
+    {
+        "id":21,
+        "from": 5500.0,
+        "to": 5999.99,
+        "fraisAchat": 625.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":75.0       
+    },
+    {
+        "id":22,
+        "from": 6000.0,
+        "to": 6499.99,
+        "fraisAchat": 640.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":75.0        
+    },
+    {
+        "id":23,
+        "from": 6500.0,
+        "to": 6999.99,
+        "fraisAchat": 665.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":75.0       
+    },
+    {
+        "id":24,
+        "from": 7000.0,
+        "to": 7499.99,
+        "fraisAchat": 690.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0     
+    },
+    {
+        "id":25,
+        "from": 7500.0,
+        "to": 7999.99,
+        "fraisAchat": 725.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":26,
+        "from": 8000.0,
+        "to": 8499.99,
+        "fraisAchat": 750.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":27,
+        "from": 8500.0,
+        "to": 8999.99,
+        "fraisAchat": 775.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":28,
+        "from": 9000.0,
+        "to": 9999.99,
+        "fraisAchat": 800.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":29,
+        "from": 10000.0,
+        "to": 10499.99,
+        "fraisAchat": 875.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":30,
+        "from": 10500.0,
+        "to": 10999.0,
+        "fraisAchat": 900.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0      
+    },
+    {
+        "id":31,
+        "from": 11000.0,
+        "to": 11499.99,
+        "fraisAchat": 925.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":32,
+        "from": 11500.0,
+        "to": 11999.99,
+        "fraisAchat": 950.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":33,
+        "from": 12000.0,
+        "to": 12499.99,
+        "fraisAchat": 975.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":34,
+        "from": 12500.0,
+        "to": 14999.99,
+        "fraisAchat": 1000.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":35,
+        "from": 15000.0,
+        "to": 17499.99,
+        "fraisAchat": 1050.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    },
+    {
+        "id":36,
+        "from": 17500.0,
+        "to": 24999.99,
+        "fraisAchat": 1075.0,
+        "fraisAuctionNow":79.0,
+        "fraisSortie":99.0       
+    }
+     
+   ]
